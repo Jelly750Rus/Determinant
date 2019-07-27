@@ -1,2 +1,2 @@
 # Determinant
-This simple program finds a determinant of square matrix
+This simple program calculates a determinant of square matrix
